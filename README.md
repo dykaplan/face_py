@@ -5,4 +5,4 @@ After initalizing the bot with bot = pic_pull(), a chrome browser window will ge
 
 Navigate to the photos section where a single photo is visible and run bot.getall(). 
 
-You may change the time.sleep(t) command as necessary based on your machine's connetivity speed. 
+You may change the time.sleep(t) command as necessary based on your machine's connectivity speed. 
